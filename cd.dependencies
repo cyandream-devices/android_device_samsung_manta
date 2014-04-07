@@ -1,0 +1,12 @@
+[
+    {
+      "branch": "cm-11.0",
+    "repository": "CyanogenMod/android_kernel_samsung_manta",
+      "target_path": "kernel/samsung/manta"
+    },
+ { 
+   "branch": "cm-11.0", 
+   "repository": "TheMuppets/proprietary_vendor_samsung", 
+   "target_path": "vendor/samsung" 
+ } 
+]
